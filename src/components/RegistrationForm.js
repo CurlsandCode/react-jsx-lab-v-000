@@ -7,6 +7,6 @@ class RegistrationForm extends React.Component {
            <input type ="password"></input>
             <button type ="submit"> </button>
         </form>
-    );
+    )
   }
 }
